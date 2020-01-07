@@ -551,7 +551,7 @@ Page breadcrumbs
   margin-bottom: 10px; }
   .page-breadcrumb .breadcrumb li {
     color: #fff;
-    font-size: 12px; }
+    font-size: 16px; }
 
 /*
 Buttons
@@ -1698,7 +1698,8 @@ Template sidebar
   font-family: "Open Sans", sans-serif; }
 
 .mainSlide-Subtitle {
-  font-family: "Prata", serif;
+  /*font-family: "Prata", serif;*/
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   color: #eee; }
 
